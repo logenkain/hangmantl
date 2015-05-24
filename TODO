@@ -1,0 +1,10 @@
+FIRST:
+Make hangman game with limited dictionary of words.
+Hard code for 12 failures.
+Users guess by pressing the approprate key on the keyboard.
+
+
+FUTURE:
+Add large dictionary after testing.
+Allow user to change fail attempts.
+Add some sort of drawing.
